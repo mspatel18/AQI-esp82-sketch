@@ -8,6 +8,6 @@ The Django backend handles the communication between the ESP8266 and the Google 
 
 Overall, this project enables real-time monitoring of air quality using ESP8266, React, Google Spreadsheet, and Django, providing a comprehensive solution for air quality analysis and visualization.
 
-Frontend-link:https://github.com/mspatel18/AQI-dashboard
-Backend-link:https://github.com/mspatel18/aqm-backend
-ESP8266-link:https://github.com/mspatel18/aqi-esp82-sketch
+- Frontend-link:https://github.com/mspatel18/AQI-dashboard
+- Backend-link:https://github.com/mspatel18/aqm-backend
+- ESP8266-link:https://github.com/mspatel18/aqi-esp82-sketch
