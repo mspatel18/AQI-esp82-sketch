@@ -11,3 +11,4 @@ Overall, this project enables real-time monitoring of air quality using ESP8266,
 - Frontend-link:https://github.com/mspatel18/AQI-dashboard
 - Backend-link:https://github.com/mspatel18/aqm-backend
 - ESP8266-link:https://github.com/mspatel18/aqi-esp82-sketch
+<img src="https://github.com/mspatel18/AQI-esp82-sketch/assets/90763685/b001c585-a104-4ffe-8a10-6c3f3803f228" width=500px/>
